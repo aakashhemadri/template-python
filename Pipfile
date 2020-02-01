@@ -12,7 +12,6 @@ pytest-pep8 = "*"
 [packages]
 pyyaml = "*"
 python-coveralls = "*"
-setup-py = {editable = true,version = "*"}
 
 [requires]
 python_version = "3.8"
